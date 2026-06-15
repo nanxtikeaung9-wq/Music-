@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://files.catbox.moe/zlmv6v.png" alt="˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/zlmv6v.png" alt="˹Yan ᴍᴜꜱɪᴄ˼" width="400"/>
   
-  # 🎵 ˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼
+  # 🎵 ˹Yam˼
 
 </h2>
 
@@ -17,7 +17,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=𝗙𝗢𝗥𝗞+𝗔𝗥𝗧𝗜𝗦𝗧+𝗠𝗨𝗦𝗜𝗖+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬">
 
 ---
-<h2 align="center">🚀 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗢𝗡 𝗥𝗘𝗡𝗗𝗘𝗥 🚀</h2>
+<h2 align="center">🚀 YanYan Music 🚀</h2>
 ---
 ## ✨ Features
 
@@ -35,13 +35,13 @@
 
 <h2 align="center">
 
-「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」
+「 𝗜𝗙 𝗔𝗡𝗬 Yan Yan 」
 [![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
 </p>
 ---
 
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusicdiv
+- **Telegram Channel**: [Artist bots](https://t.me/YanYanPTM)
+- **Support Group**: [Elevenyts Music](https://t.me/+iY_v1rcOP2NmMTNl)
 ---
 
 ## 📝 Notes
